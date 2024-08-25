@@ -19,7 +19,7 @@ Before running the application, ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/[YourUsername]/motivational-bard-hackathon-submission.git
+git clone https://github.com/AntoMakh/motivational-bard-hackathon-submission.git
 cd motivational-bard-hackathon-submission
 ```
 
