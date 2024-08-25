@@ -37,7 +37,7 @@ API_KEY=your_google_generativeai_api_key
 ### 4. Running the application
 To run the application, simply execute the script:
 ```bash
-python src/motivational_bard.py
+python src/motivational_bard.pyw
 ```
 
 ## Installation through building the .exe file
@@ -53,6 +53,10 @@ pip install pyinstaller
 ```bash
 pyinstaller --clean --noconfirm motivational_bard.spec
 ```
+
+## Quitting
+
+To stop the app, open your notification tray, right-click on the icon, and click on 'Quit'.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
