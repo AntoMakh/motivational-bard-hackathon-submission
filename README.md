@@ -1,4 +1,4 @@
-# Motivational Bard Hackathon Submission
+# Motivational Bard Hackathon Submission - Solo Developer under the team name B1smrk
 
 ## Introduction
 
